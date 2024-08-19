@@ -6,7 +6,7 @@ Welcome to my little corner of the digital world!
 I’m currently pursuing a degree in **Computer Science & Communication** at the University of Milan, fondly known as *“La Statale.”* Before this, I completed a diploma in **Computer Science and Telecommunications**, which was the spark that ignited my passion for technology and laid a solid foundation for my technical skills.
 
 ### 💼 What I Do
-Currently, I’m an **iOS Engineer** at **Iliad**, where I bring my skills to life, transforming lines of code into seamless user experiences. But that's not all! I also contribute to **Dario D’Angelo’s Blog**, where I provide IT strategy advice and actively engage with the community. It’s a mix of tech, strategy, and creativity that keeps me on my toes.
+Currently, I’m an **iOS Engineer** at **Iliad**, where I bring my skills to life, transforming lines of code into seamless user experiences. But that's not all! I also contribute to **Dario D’Angelo’s Blog**, where I drive the IT strategy and actively engage with the community. It’s a mix of tech, strategy, and creativity that keeps me on my toes.
 
 ### 🌍 A Journey of Adaptability
 Having grown up in France and then moving to Italy at the end of elementary school, I’ve had my fair share of cultural shifts. This experience taught me the value of **flexibility**, **open-mindedness**, and the ability to **adapt**—qualities that have become crucial in today’s ever-changing world.
