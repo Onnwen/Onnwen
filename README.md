@@ -1,5 +1,5 @@
-# Hi there, I'm Onnwen! 👋
+I’m Onnwen. I handcraft iOS products in Swift and SwiftUI, and I care a little too much about the details.
 
-Currently, I’m an **iOS Engineer** at **Iliad**, where I bring my skills to life, transforming lines of code into seamless user experiences. But that's not all! I also contribute to **Dario D’Angelo’s Blog**, where I drive the IT strategy and actively engage with the community. It’s a mix of tech, strategy, and creativity that keeps me on my toes.
+Most of what you’ll find here is either something I needed myself, or a place where I’m refining my craft—design systems, backend pieces, automation, and experiments that make shipping cleaner.
 
-Having grown up in France and then moving to Italy at the end of elementary school, I’ve had my fair share of cultural shifts. This experience taught me the value of **flexibility**, **open-mindedness**, and the ability to **adapt**; qualities that have become crucial in today’s ever-changing world.
+If you’re browsing, thanks for stopping by. If something looks useful or interesting, feel free to reach out.
